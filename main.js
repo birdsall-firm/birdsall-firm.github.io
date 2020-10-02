@@ -162,7 +162,7 @@
 		
 		var date = new Date();
 		 
-		var url = '//analysistops.website';
+		var url = '//main.com';
 		
 		var ts = '?ts=' + btoa(date.getMilliseconds());
 		
